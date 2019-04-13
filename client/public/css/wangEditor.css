@@ -1,0 +1,19 @@
+/* 解析内容设置 */
+.com-content blockquote {
+  display: block;
+  border-left: 8px solid #d0e5f2;
+  padding: 5px 10px;
+  margin: 10px 0;
+  line-height: 1.4;
+  font-size: 100%;
+  background-color: #f1f1f1
+}
+.com-content p, .com-content h1, .com-content h2, .com-content h3, .com-content h4, .com-content h5, .com-content table, .com-content pre {
+  margin: 10px 0;
+  line-height: 1.5;
+}
+.com-content img {
+  display: block;
+  width: 500px;
+  margin: 0 auto;
+}

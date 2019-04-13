@@ -1,0 +1,37 @@
+body,h1,h2,h3,h4,h5,h6,p,dl,dd,blockquote {
+  margin: 0;
+  font-weight: normal;
+}
+ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+img{
+  vertical-align: top;
+}
+html,body{
+  width: 100%;
+  height: 100%;
+}
+.el-scrollbar__wrap {
+  overflow-x: hidden !important;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+input[type="number"]{
+  -moz-appearance: textfield;
+}
+.el-dialog {
+  width: 560px !important;
+  min-width: 560px !important;
+}
+.el-select-dropdown__list {
+  margin-bottom: 17px !important;
+}
+.el-scrollbar__view {
+  height: 100%;
+}
+
